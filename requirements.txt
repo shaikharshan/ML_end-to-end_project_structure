@@ -4,4 +4,6 @@ seaborn
 pandas
 scikit-learn
 catboost
+dill
+xgboost
 # -e .
